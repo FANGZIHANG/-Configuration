@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/springcloud1
+    url: jdbc:mysql://localhost:3306/springcloud
     username: root
     password: 123
     driver-class-name: com.mysql.jdbc.Driver
